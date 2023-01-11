@@ -19,14 +19,6 @@ public class Main {
 
 
 // clase Coche
-class Coche {
-
-    public static int puertas = 0;
-    
-    public void SumaPuertas(){
-        this.puertas++;
-    }
-}
 
 public static int Suma3 (int a, int b, int c){
         
